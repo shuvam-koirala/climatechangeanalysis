@@ -1,0 +1,1 @@
+This is a project written in jupyter notebook in python programming language. This projects deals with the the data related to mean temperature difference over certain time period and performs the data analysis using different python libraries to get the meaningful information from those data .
